@@ -1,0 +1,184 @@
+body{
+    padding: 10px;
+    font-family: "Inter", serif;
+}
+.navpage {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+.nav {
+    display: flex;
+    gap: 20px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.all {
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.Neweb {
+    display: flex;
+}
+
+.webbrightdr {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* margin: auto; */
+    padding: 10px;
+    gap: none;
+    width: 70%;
+    
+}
+.web3 img{
+width: 100%;
+}
+
+.brightdr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.bright h2 {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 40px;
+    color: black;
+
+}
+
+.dr {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+
+
+.dive {
+    width: 90%;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+button{
+    border: none;
+    border-radius: none;
+    padding: 10px;
+    /* border-width: 2px; */
+    width: 30%;
+    text-align: center;
+    background-color: hsl(5, 85%, 63%);
+}
+
+.New {
+    border-radius: None;
+    background-color: black;
+    padding: 20px;
+    margin: 10px;
+    width: 30%;
+}
+
+.New p {
+    color: hsl(233, 8%, 79%);
+    font-size: 15px;
+}
+
+h2 {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(35, 77%, 62%)
+}
+
+.Hydrogen {
+    border-bottom: 2px solid hsl(233, 8%, 79%);
+   
+}
+
+.Downsides {
+    border-bottom: 2px solid hsl(233, 8%, 79%);
+}
+
+h4 {
+    color: hsl(36, 100%, 99%)
+}
+
+p{
+    color: black;
+    font-size: 15px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    align-content: space-between;
+}
+
+.bottom p {
+    color: solid black;
+
+}
+
+.retro {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+    margin: 10px;
+    align-items: center;
+
+}
+
+.ret {
+    width: 60%;
+    height: 60%;
+    align-items: center;
+}
+
+.toplap {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+    margin: 10px;
+    align-items: center;
+}
+
+.Laptops {
+    width: 60%;
+    height: 60%;
+}
+
+.growth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 10px;
+    margin: 10px;
+}
+
+.gaming {
+    width: 60%;
+    height: 60%;
+}
+
+h3 {
+    color: hsl(5, 85%, 63%);
+}
+
+
+
