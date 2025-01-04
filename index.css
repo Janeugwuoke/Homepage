@@ -180,5 +180,69 @@ h3 {
     color: hsl(5, 85%, 63%);
 }
 
+@media only screen and (max-width:769px) 
+{
+
+    .Neweb {
+        display: flex;
+        flex-direction: column;
+    }
 
 
+.web3 img{
+width: 100%;
+}
+    
+    .brightdr {
+        display: flex;
+       flex-direction: column;
+       justify-content:none;
+       gap: none;
+    }
+
+
+    .bright h2 {
+        font-family: "Inter", serif;
+        font-optical-sizing: auto;
+        font-weight: 800;
+        font-style: normal;
+        font-size: 20px;
+        color: black;
+    
+    }
+
+    .dive {
+        width: 100%;
+    }
+
+    .dive p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    
+button{
+    width: 70%;
+    font-size: 15px;
+   
+}
+    .New {
+        border-radius: None;
+        background-color: black;
+        width: 100%;
+    }
+    
+    .New p {
+        font-size: 15px;
+    }
+   
+
+    .bottom {
+       flex-direction: column;
+       gap: none;
+       padding: none;
+       align-content: none;
+
+}
+
+}
